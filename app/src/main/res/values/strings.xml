@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assign1</string>
+    <string name="action_settings">Settings</string>
+    <string name="the_3d_acceleration_values_are">The 3D acceleration values are:</string>
+    <string name="the_shake_detector_detects">The Shake Detector detects:</string>
+    <string name="shake_detection_result">Shake Detection Result</string>
+    <string name="acceleration_value">Acceleration Value...</string>
+    <string name="input_desired_threshold">Input Desired Threshold</string>
+    <string name="threshold_value">Threshold Value</string>
+    <string name="stop">STOP</string>
+    <string name="start">Start</string>
+    <string name="air_pressure_is">Air Pressure is:</string>
+    <string name="get_air_pressure">Get Air Pressure</string>
+    <string name="air_pressure_value">Air Pressure Value...</string>
+</resources>
